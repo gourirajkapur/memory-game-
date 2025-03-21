@@ -70,3 +70,5 @@ while (True) :
        flag=0
        break
     light.append(random.randint(1, 4))
+
+l=["bro", "python", "nithiesh", "chup"]
